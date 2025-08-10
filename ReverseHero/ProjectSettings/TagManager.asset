@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Capa 1
+    uniqueID: 2763114403
+    locked: 0
+  - name: Capa 2
+    uniqueID: 676834753
+    locked: 0
+  - name: Capa 3
+    uniqueID: 1304432209
+    locked: 0
+  - name: Capa 4
+    uniqueID: 2899948475
+    locked: 0
+  - name: Capa 5
+    uniqueID: 1643227921
+    locked: 0
+  - name: Capa 6
+    uniqueID: 1256276755
+    locked: 0
+  - name: Capa 7
+    uniqueID: 4128919819
+    locked: 0
+  - name: Capa 8
+    uniqueID: 664910751
+    locked: 0
+  - name: Capa 9
+    uniqueID: 1103905427
+    locked: 0
+  m_RenderingLayers:
+  - Default
